@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "LTEE variant calling"
+abstract: "Variant calling on LTEE E. coli samples"
+type: software
+authors:
+  - given-names: "Cristina"
+    family-names: "Correa Segade"
+    email: "cristina.segade@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0009-0006-5667-9296"
+repository-code: "https://github.com/CrisCorreaS/ltee-project"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-28"
